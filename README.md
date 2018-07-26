@@ -30,11 +30,6 @@ This is my personal website that is currently in development.  I had to put the 
 This website has a number of my early projects.  Feel free to explore.
 [spiker.neocities.org](https://spiker.neocities.org/)
 
-[die-simulation]: https://github.com/joeross999/joeross999.github.io/blob/master/images/DIE-Simulation.png
-[frogger-sim]:https://github.com/joeross999/joeross999.github.io/blob/master/images/frogger.png
-[New-Zealand-Weather-Project]:https://github.com/joeross999/joeross999.github.io/blob/master/images/New-Zealand-Weather-Project.png
-[Snake]:https://github.com/joeross999/joeross999.github.io/blob/master/images/Snake.png
-
 ### Udacity Projects
 I have completed the Udacity Front-End Developer Nanodegree so these are just a few of the projects that I developed during that program.
 
@@ -60,3 +55,9 @@ Both of these projects were developed during my freshman year at UMass Amherst.
 
 #### Sorting Algorithms
 [See the code here](https://github.com/joeross999/Sorting-Algorithms)
+
+
+[die-simulation]: https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/DIE-Simulation.PNG
+[frogger-sim]:https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/frogger.png
+[New-Zealand-Weather-Project]:https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/New-Zealand-Weather-Project.png
+[Snake]:https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/Snake.png
