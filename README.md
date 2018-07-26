@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="/css/styles.css" />
+
 # Joseph Ross
 Welcome to my e-Portfolio
 
