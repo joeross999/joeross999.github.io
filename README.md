@@ -41,6 +41,8 @@ This is a simple frogger clone rendered in the browser using the HTML 5 canvas. 
 ![New Zealand National Parks Weather Projec][New-Zealand-Weather-Project]
 I developed this project on my own for an assignment during the nanodegree.  This project uses the Google Maps API for the map data and APIXU for retrieving weather data for National Parks in New Zealand.  I used the Knockout.ks framework to implement a Model-View-View-model pattern.  The project renders on both desktop and mobile (although this was one of my first mobile responsive sites so the mobile experience isn't perfect). The code is located [here](https://github.com/joeross999/New-Zealand-National-Parks-Weather-Project). [Checkout the project here!](https://spiker.neocities.org/NewZealandWeatherProject/index.html)
 
+I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
+
 ### Udacity Feed Reader Jasmine Testing Exercise
 This was a simple project to learn how to use Jasmine.  I am now using Jasmine as the testing framework for [Distributed Artificial intelligence Simulation](#Distributed-Artificial-intelligence-Simulation).  [View the repo](https://github.com/joeross999/frontend-nanodegree-feedreader)
 
