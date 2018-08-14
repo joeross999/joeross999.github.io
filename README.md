@@ -1,7 +1,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="/css/styles.css" />
 
 # Joseph Ross
-Welcome to my e-Portfolio
+Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone project at Southern New Hampshire University.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).
+
+### Table of Contents
 
 [Southern New Hampshire University Projects](#Southern-New-Hampshire-University-Projects)
 
@@ -13,10 +15,16 @@ Welcome to my e-Portfolio
 
 ## Southern New Hampshire University Projects
 
-### Distributed Artificial intelligence Simulation
+### Distributed Artificial Intelligence Simulation
 I am currently working on my Capstone Project for my Computer Science Degree from The University Of Southern New Hampshire.  For my project I am creating a web simulation of distributed artificial intelligence for self assembling robots.  
 ![Distributed Artificial intelligence Simulation][die-simulation]
 This project is currently in development but if you want to check out an early version of the project please visit the [project repo](https://github.com/joeross999/Distributed-Intelligence-Experiment)
+
+Usually as part of the capstone project, students are required to improve three school projects to demonstrate enhancements in three categories: Software Design and Engineering, Algorithm and Data Structures, and Databases.  Rather than simply improve school projects, I decided, after receiving approval from my instructor, to create one project, from scratch that would demonstrate my knowledge in all three categories.  The result was the Distributed Artificial Intelligence Simulation.  The requirements are fulfilled as follows.  The simulation, including the web server, the browser rendering system, and the world setup fulfills the Software Design and Engineering requirements.  The AI used for the bots to organize into the patterns fulfills the Algorithm and Data Structures requirements. Then Finally the project has been connected to a database to allow for multiple simultaneous users, fulfilling the database requirements.
+
+
+
+I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
 
 
 ## Personal Projects
@@ -43,7 +51,6 @@ This is a simple frogger clone rendered in the browser using the HTML 5 canvas. 
 ![New Zealand National Parks Weather Projec][New-Zealand-Weather-Project]
 I developed this project on my own for an assignment during the nanodegree.  This project uses the Google Maps API for the map data and APIXU for retrieving weather data for National Parks in New Zealand.  I used the Knockout.ks framework to implement a Model-View-View-model pattern.  The project renders on both desktop and mobile (although this was one of my first mobile responsive sites so the mobile experience isn't perfect). The code is located [here](https://github.com/joeross999/New-Zealand-National-Parks-Weather-Project). [Checkout the project here!](https://spiker.neocities.org/NewZealandWeatherProject/index.html)
 
-I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
 
 ### Udacity Feed Reader Jasmine Testing Exercise
 This was a simple project to learn how to use Jasmine.  I am now using Jasmine as the testing framework for [Distributed Artificial intelligence Simulation](#Distributed-Artificial-intelligence-Simulation).  [View the repo](https://github.com/joeross999/frontend-nanodegree-feedreader)
