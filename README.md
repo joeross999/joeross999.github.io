@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="/css/styles.css" />
 
 # Joseph Ross
-Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone project at Southern New Hampshire University.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).
+Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone project at Southern New Hampshire University.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools. I have included a list of my useful skills at the bottom of the portfolio.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).  I hope to pursue a career in full stack web development where I will be able to work on complex interactive web apps that will be helpful to people.
 
 ### Table of Contents
 
@@ -13,16 +13,25 @@ Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone pro
 
 [School Projects from UMass Amherst Honors College](#UMass-Amherst-Projects)
 
+[Skills](#Skills)
+
 ## Southern New Hampshire University Projects
 
 ### Distributed Artificial Intelligence Simulation
-I am currently working on my Capstone Project for my Computer Science Degree from The University Of Southern New Hampshire.  For my project I am creating a web simulation of distributed artificial intelligence for self assembling robots.  
+This is a project that I completed for my Capstone Project for my Computer Science Degree from The University Of Southern New Hampshire.  I am still working on improvements to the code now and am currently working on getting it up on my website ([thelifeofcode.com](#The-Life-Of-Code)).  The project is a web based simulation of distributed artificial intelligence for self assembling robots.  All of the robots (the colored dots on the screen) have no knowledge of any other bots in the world but they can communicate through a simulated wireless communication system with a set range.  The bots than think on their own, using target acquisition and pathfinding algorithms to assemble themself into specified patterns. Every step, the browser sends a request to the Node.js server to complete the computational work.  The server then uses user's session information and a database to retrieve the correct bots for the current user and performs the computational work.  Once the computation is complete the results are sent to the browser where they are rendered for the user to see.  Check out the project repo [here](https://github.com/joeross999/Distributed-Intelligence-Experiment)
+
 ![Distributed Artificial intelligence Simulation][die-simulation]
-This project is currently in development but if you want to check out an early version of the project please visit the [project repo](https://github.com/joeross999/Distributed-Intelligence-Experiment)
+
+As this is currently an ongoing project I have included a roadmap for features that I would like to add to the project.
+
+- Roming pattern (We are currently removing bugs from this feature and will be adding it to the main code base soon)
+- More patterns (There are currently 2 patterns, we hope to add more as time goes on)
+- Get it up on my website. ([thelifeofcode.com](#The-Life-Of-Code))
+- More customization options (Ability for user to change patterns, coloring, and other options)
+- Better target acquisition system (Currently bots do not cooridinate their target acquisition work with the other bots, this means that sometimes multiple bots choose the same target resulting in some wasted time when bots move towards a target that will be filled before they reach it.)
+- Collaborative pathfinding (Currently the bots do not coordinate their movements and often cross paths causing one of the bots to recalculate its path)
 
 Usually as part of the capstone project, students are required to improve three school projects to demonstrate enhancements in three categories: Software Design and Engineering, Algorithm and Data Structures, and Databases.  Rather than simply improve school projects, I decided, after receiving approval from my instructor, to create one project, from scratch that would demonstrate my knowledge in all three categories.  The result was the Distributed Artificial Intelligence Simulation.  The requirements are fulfilled as follows.  The simulation, including the web server, the browser rendering system, and the world setup fulfills the Software Design and Engineering requirements.  The AI used for the bots to organize into the patterns fulfills the Algorithm and Data Structures requirements. Then Finally the project has been connected to a database to allow for multiple simultaneous users, fulfilling the database requirements.
-
-
 
 I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
 
@@ -67,6 +76,38 @@ Both of these projects were developed during my freshman year at UMass Amherst.
 ### Sorting Algorithms
 [See the code here](https://github.com/joeross999/Sorting-Algorithms)
 
+## Skills
+Here are a list of skills that I have and tools that I have experience with.  This is not an exhaustive list of every experience that I may have had but it does give a good idea as to my experience.
+
+General Skills
+- Full Stack Web Development
+- Responsive Design
+- Object Oriented Programming
+- Browser Developer Tools (Chrome)
+- Development Team Experience (Agile)
+
+Languages
+- JavaScript (Advanced)
+- CSS (Experienced)
+- HTML (Experienced)
+- Python (Experienced)
+- Linux Command Line and Scripts (Experienced)
+- Java (Educational Experience)
+- C++ (Beginner)
+
+Development Tools and Libraries
+- Git (Advanced)
+- Node.js (Advanced)
+- AJAX (Experienced)
+- Bootstrap (Experienced)
+- Ember.js (Experienced)
+- Gulp.js (Experienced)
+- jQuery (Experienced)
+- MongoDB (Experienced)
+- Photoshop / GIMP (Experienced)
+- Wordpress (Experienced)
+- SQL (Beginner)
+- React (Beginner)
 
 [die-simulation]: https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/DIE-Simulation.PNG
 [frogger-sim]:https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/frogger.png
