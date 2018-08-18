@@ -1,24 +1,24 @@
-<link rel="stylesheet" type="text/css" media="all" href="/css/styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/css/styles.css" />
 
 # Joseph Ross
 Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone project at Southern New Hampshire University.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools. I have included a list of my useful skills at the bottom of the portfolio.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).  I hope to pursue a career in full stack web development where I will be able to work on complex interactive web apps that will be helpful to people.
 
 ### Table of Contents
 
-[Southern New Hampshire University Projects](#Southern-New-Hampshire-University-Projects)
+[Southern New Hampshire University Projects](#southern-new-hampshire-university-projects)
 
-[Personal Projects](#Personal-Projects)
+[Personal Projects](#personal-projects)
 
-[Udacity Projects](#Udacity-Projects)
+[Udacity Projects](#udacity-projects)
 
-[School Projects from UMass Amherst Honors College](#UMass-Amherst-Projects)
+[School Projects from UMass Amherst Honors College](#umass-amherst-projects)
 
-[Skills](#Skills)
+[Skills](#skills)
 
 ## Southern New Hampshire University Projects
 
 ### Distributed Artificial Intelligence Simulation
-This is a project that I completed for my Capstone Project for my Computer Science Degree from The University Of Southern New Hampshire.  I am still working on improvements to the code now and am currently working on getting it up on my website ([thelifeofcode.com](#The-Life-Of-Code)).  The project is a web based simulation of distributed artificial intelligence for self assembling robots.  All of the robots (the colored dots on the screen) have no knowledge of any other bots in the world but they can communicate through a simulated wireless communication system with a set range.  The bots than think on their own, using target acquisition and pathfinding algorithms to assemble themself into specified patterns. Every step, the browser sends a request to the Node.js server to complete the computational work.  The server then uses user's session information and a database to retrieve the correct bots for the current user and performs the computational work.  Once the computation is complete the results are sent to the browser where they are rendered for the user to see.  Check out the project repo [here](https://github.com/joeross999/Distributed-Intelligence-Experiment)
+This is a project that I completed for my Capstone Project for my Computer Science Degree from The University Of Southern New Hampshire.  I am still working on improvements to the code now and am currently working on getting it up on my website ([thelifeofcode.com](#the-life-of-code)).  The project is a web based simulation of distributed artificial intelligence for self assembling robots.  All of the robots (the colored dots on the screen) have no knowledge of any other bots in the world but they can communicate through a simulated wireless communication system with a set range.  The bots than think on their own, using target acquisition and pathfinding algorithms to assemble themself into specified patterns. Every step, the browser sends a request to the Node.js server to complete the computational work.  The server then uses user's session information and a database to retrieve the correct bots for the current user and performs the computational work.  Once the computation is complete the results are sent to the browser where they are rendered for the user to see.  Check out the project repo [here](https://github.com/joeross999/Distributed-Intelligence-Experiment)
 
 ![Distributed Artificial intelligence Simulation][die-simulation]
 
@@ -26,7 +26,7 @@ As this is currently an ongoing project I have included a roadmap for features t
 
 - Roming pattern (We are currently removing bugs from this feature and will be adding it to the main code base soon)
 - More patterns (There are currently 2 patterns, we hope to add more as time goes on)
-- Get it up on my website. ([thelifeofcode.com](#The-Life-Of-Code))
+- Get it up on my website. ([thelifeofcode.com](#the-life-of-code))
 - More customization options (Ability for user to change patterns, coloring, and other options)
 - Better target acquisition system (Currently bots do not cooridinate their target acquisition work with the other bots, this means that sometimes multiple bots choose the same target resulting in some wasted time when bots move towards a target that will be filled before they reach it.)
 - Collaborative pathfinding (Currently the bots do not coordinate their movements and often cross paths causing one of the bots to recalculate its path)
@@ -62,7 +62,7 @@ I developed this project on my own for an assignment during the nanodegree.  Thi
 
 
 ### Udacity Feed Reader Jasmine Testing Exercise
-This was a simple project to learn how to use Jasmine.  I am now using Jasmine as the testing framework for [Distributed Artificial intelligence Simulation](#Distributed-Artificial-intelligence-Simulation).  [View the repo](https://github.com/joeross999/frontend-nanodegree-feedreader)
+This was a simple project to learn how to use Jasmine.  I am now using Jasmine as the testing framework for [Distributed Artificial intelligence Simulation](#distributed-artificial-intelligence-simulation).  [View the repo](https://github.com/joeross999/frontend-nanodegree-feedreader)
 
 ### RoboND Rover Project
 This was a project that I completed as part of a Udacity robotics class.  It uses python to control a robot to navigate an unknown terrain using a virtual camera as an input device.  [View the Code](https://github.com/joeross999/RoboND-Rover-Project)
