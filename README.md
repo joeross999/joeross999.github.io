@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/css/styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="css/styles.css" />
 
 # Joseph Ross
 Welcome to my e-Portfolio.  I am currently a Senior finishing up my capstone project at Southern New Hampshire University.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools. I have included a list of my useful skills at the bottom of the portfolio.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).  I hope to pursue a career in full stack web development where I will be able to work on complex interactive web apps that will be helpful to people.
