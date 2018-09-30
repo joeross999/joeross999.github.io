@@ -31,9 +31,8 @@ As this is currently an ongoing project I have included a roadmap for features t
 - Better target acquisition system (Currently bots do not cooridinate their target acquisition work with the other bots, this means that sometimes multiple bots choose the same target resulting in some wasted time when bots move towards a target that will be filled before they reach it.)
 - Collaborative pathfinding (Currently the bots do not coordinate their movements and often cross paths causing one of the bots to recalculate its path)
 
-``` 
 Note: This project is currently on hold as I look into reworking the project in a faster language.  I am currently learning Rust and discussing rebuilding the project using Rust rather than JavaScript.
-```
+
 Usually as part of the capstone project, students are required to improve three school projects to demonstrate enhancements in three categories: Software Design and Engineering, Algorithm and Data Structures, and Databases.  Rather than simply improve school projects, I decided, after receiving approval from my instructor, to create one project, from scratch that would demonstrate my knowledge in all three categories.  The result was the Distributed Artificial Intelligence Simulation.  The requirements are fulfilled as follows.  The simulation, including the web server, the browser rendering system, and the world setup fulfills the Software Design and Engineering requirements.  The AI used for the bots to organize into the patterns fulfills the Algorithm and Data Structures requirements. Then Finally the project has been connected to a database to allow for multiple simultaneous users, fulfilling the database requirements.
 
 I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
