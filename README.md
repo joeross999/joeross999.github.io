@@ -1,7 +1,9 @@
 <link rel="stylesheet" type="text/css" media="all" href="css/styles.css" />
 
 # Joseph Ross
-Welcome to my e-Portfolio.  I recently graduated from Southern New Hampshire University with a Bachelor's degree in Computer Science.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools. I have included a list of my useful skills at the bottom of the portfolio.  If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/).  I am currently looking for work as a full stack web developer but intend to go back to school to pursue graduate education in the near future.
+Welcome to my e-Portfolio.  I recently graduated from Southern New Hampshire University with a Bachelor's degree in Computer Science.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I am currently working as a web developer and have a few years of experience in the field both educationally and professionally.  I have worked on full stack projects using a number of different platforms and tools. If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/) or the [skills section](#skills) at the bottom of this page.  
+
+I am currently looking for work as a full stack web developer.
 
 ### Table of Contents
 
