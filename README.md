@@ -5,6 +5,8 @@
 
 >I am an excited young developer with enough experience to make a contribution, looking for an engaging opportunity to work with an exciting company.  
 
+[Visit my main GitHub profile](https://github.com/joeross999)
+
 This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I have worked on a number of full stack projects using a number of different platforms and tools. If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/) or the [skills section](#skills) at the bottom of this page.  
 
 I am currently looking for work as a full stack web developer.
