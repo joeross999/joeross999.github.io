@@ -1,8 +1,11 @@
 <link rel="stylesheet" type="text/css" media="all" href="css/styles.css" />
 
-An excited young developer looking for a flexible opportunity to work with exciting technologies.  
 
-I recently graduated from Southern New Hampshire University with a Bachelor's degree in Computer Science.  Currently I am consulting as a Java developer for Santander bank.  This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I have worked on a number of full stack projects using a number of different platforms and tools. If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/) or the [skills section](#skills) at the bottom of this page.  
+# Joe Ross
+
+>I am an excited young developer with enough experience to make a contribution, looking for an engaging opportunity to work with an exciting company.  
+
+This page has descriptions and links to a number of projects that I have completed for school or as personal projects over the last couple years.  I have worked on a number of full stack projects using a number of different platforms and tools. If you would like more information about my skills and experience check out my [LinkedIn profile](https://www.linkedin.com/in/joeross999/) or the [skills section](#skills) at the bottom of this page.  
 
 I am currently looking for work as a full stack web developer.
 
@@ -29,30 +32,18 @@ As this is currently an ongoing project I have included a roadmap for features t
 
 - Roming pattern (We are currently removing bugs from this feature and will be adding it to the main code base soon)
 - More patterns (There are currently 2 patterns, we hope to add more as time goes on)
-- Get it up on my website. ([thelifeofcode.com](#the-life-of-code))
 - More customization options (Ability for user to change patterns, coloring, and other options)
 - Better target acquisition system (Currently bots do not cooridinate their target acquisition work with the other bots, this means that sometimes multiple bots choose the same target resulting in some wasted time when bots move towards a target that will be filled before they reach it.)
 - Collaborative pathfinding (Currently the bots do not coordinate their movements and often cross paths causing one of the bots to recalculate its path)
 
-Note: This project is currently on hold as I look into reworking the project in a faster language.  I am currently learning Rust and discussing rebuilding the project using Rust rather than JavaScript.
-
-Usually as part of the capstone project, students are required to improve three school projects to demonstrate enhancements in three categories: Software Design and Engineering, Algorithm and Data Structures, and Databases.  Rather than simply improve school projects, I decided, after receiving approval from my instructor, to create one project, from scratch that would demonstrate my knowledge in all three categories.  The result was the Distributed Artificial Intelligence Simulation.  The requirements are fulfilled as follows.  The simulation, including the web server, the browser rendering system, and the world setup fulfills the Software Design and Engineering requirements.  The AI used for the bots to organize into the patterns fulfills the Algorithm and Data Structures requirements. Then Finally the project has been connected to a database to allow for multiple simultaneous users, fulfilling the database requirements.
-
-I also Completed a Code Review for one of the early steps in the process.  [View the code review](https://www.youtube.com/playlist?list=PL0Dhu-pZ6JPHKndhZWyd7ojdCWxedM57L)
+Usually as part of the capstone project, students are required to improve three school projects to demonstrate enhancements in three categories: Software Design and Engineering, Algorithm and Data Structures, and Databases.  Rather than simply improve school projects, I decided, after receiving approval from my instructor, to create one project, from scratch that would demonstrate my knowledge in all three categories.  The result was the Distributed Artificial Intelligence Simulation.
 
 
 ## Personal Projects
 
 ### Snake 
 ![Snake][Snake]
-For this project I attempted to recreate the classic game "Snake" using vanilla javascript.  It was a fun project to test out some of my coding skills using the Model-View-Controller Pattern.  [Check out the code here](https://github.com/joeross999/Snake)
-
-### The Life Of Code
-This is my personal website that is currently in development.  I had to put the project on hold during the last few months due to an increase in school work load, and other personal reasons. I hope to continue to improve the site and start to upload content soon.  [Take a look at what I have so far...](http://thelifeofcode.com)
-
-### A collection of my earlier projects
-This website has a number of my early projects.  Feel free to explore.
-[spiker.neocities.org](https://spiker.neocities.org/)
+For this project I attempted to recreate the classic game "Snake" using vanilla javascript.  It was a fun project to test out some of my front end JavaScript skills.  [Check out the code here](https://github.com/joeross999/Snake)
 
 ## Udacity Projects
 I have completed the Udacity Front-End Developer Nanodegree so these are just a few of the projects that I developed during that program.
@@ -93,11 +84,11 @@ General Skills
 
 Languages
 - JavaScript (Advanced)
+- Java (Experienced)
 - CSS (Experienced)
 - HTML (Experienced)
-- Python (Experienced)
 - Linux Command Line and Scripts (Experienced)
-- Java (Educational Experience)
+- Python (Some Experience)
 - C++ (Beginner)
 
 Development Tools and Libraries
@@ -111,7 +102,7 @@ Development Tools and Libraries
 - MongoDB (Experienced)
 - Photoshop / GIMP (Experienced)
 - Wordpress (Experienced)
-- SQL (Beginner)
+- SQL (Experienced)
 - React (Beginner)
 
 [die-simulation]: https://raw.githubusercontent.com/joeross999/joeross999.github.io/master/images/DIE-Simulation.PNG
